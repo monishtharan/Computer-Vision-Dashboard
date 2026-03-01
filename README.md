@@ -1,5 +1,5 @@
-VisionCity: Real-Time Urban Intelligence System
-VisionCity is a high-performance computer vision pipeline designed for smart city infrastructure. By leveraging state-of-the-art deep learning models, it transforms standard surveillance feeds into actionable urban analytics, enabling cities to monitor traffic flow, pedestrian safety, and infrastructure utilization in real-time.
+AI & Data Science Powered Smart City Real-Time Surveillance 
+Vision City is a high-performance computer vision pipeline designed for smart city infrastructure. By leveraging state-of-the-art deep learning models, it transforms standard surveillance feeds into actionable urban analytics, enabling cities to monitor traffic flow, pedestrian safety, and infrastructure utilization in real-time.
 
 Key Features:
 
